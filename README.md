@@ -2,4 +2,4 @@
 
 Hi, 
 
-I 'm just trying to understand GetHub and use it in my projects. 
+I'm just trying to understand GetHub and use it in my projects. 
