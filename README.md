@@ -1,2 +1,5 @@
 # hello-world
-My first test
+
+Hi, 
+
+I 'm just trying to understand GetHub and use it in my projects. 
